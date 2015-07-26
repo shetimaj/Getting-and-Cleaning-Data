@@ -7,73 +7,73 @@ The smartphone built-in gyrocope and accelerometer are responsible for the 3-axi
 Standing, Laying
 
 # Measurement Columns
-  * Body Acceleration Mean:
+  * Body Acceleration Mean - Time:
     * "tBodyAcceleration Mean X"                   
     * "tBodyAcceleration Mean Y"                   
     * "tBodyAcceleration Mean Z"                   
 
- * Body Acceleration Standard Deviation
+ * Body Acceleration Standard Deviation - Time:
     * "tBodyAcceleration StdDev X"                 
     * "tBodyAcceleration StdDev Y"                 
     * "tBodyAcceleration StdDev Z"                 
 
-  * Gravity Acceleration Mean
+  * Gravity Acceleration Mean - Time:
     * "tGravityAcceleration Mean X"                
     * "tGravityAcceleration Mean Y"                
     * "tGravityAcceleration Mean Z"                
 
-  * Gravity Acceleration Standard Deviation
+  * Gravity Acceleration Standard Deviation - Time:
     * "tGravityAcceleration StdDev X"              
     * "tGravityAcceleration StdDev Y"              
     * "tGravityAcceleration StdDev Z"              
   
-  * Body Acceleration Jerk Mean
+  * Body Acceleration Jerk Mean - Time:
     * "tBodyAcceleration JerkMean X"               
     * "tBodyAcceleration JerkMean Y"               
     * "tBodyAcceleration JerkMean Z"               
 
-  * Body Acceleration Jerk Standard Deviation
+  * Body Acceleration Jerk Standard Deviation - Time:
     * "tBodyAcceleration JerkStdDev X"             
     * "tBodyAcceleration JerkStdDev Y"             
     * "tBodyAcceleration JerkStdDev Z"             
 
-  * Body Gyroscope Mean
+  * Body Gyroscope Mean - Time:
     * "tBodyGyroMean X"                            
     * "tBodyGyroMean Y"                            
     * "tBodyGyroMean Z"                            
 
-  * Body Gyroscope Standard Deviation
+  * Body Gyroscope Standard Deviation - Time:
     * "tBodyGyroStdDev X"                          
     * "tBodyGyroStdDev Y"                          
     * "tBodyGyroStdDev Z"                          
 
-  * Body Gyroscope Jerk Mean
+  * Body Gyroscope Jerk Mean - Time:
     * "tBodyGyroJerkMean X"                        
     * "tBodyGyroJerkMean Y"                        
     * "tBodyGyroJerkMean Z"                        
 
-  * Body Gyroscope Jerk Standard Deviation
+  * Body Gyroscope Jerk Standard Deviation - Time:
     * "tBodyGyroJerkStdDev X"                      
     * "tBodyGyroJerkStdDev Y"                      
     * "tBodyGyroJerkStdDev Z"                      
 
-  * Body Accleration Magnitude 
+  * Body Accleration Magnitude - Time:
     * "tBodyAcceleration Magnitude Mean "          
     * "tBodyAcceleration Magnitude StdDev "        
     
-  * Gravity Acceleration Magnitude  
+  * Gravity Acceleration Magnitude - Time:  
     * "tGravityAcceleration Magnitude Mean "       
     * "tGravityAcceleration Magnitude StdDev "     
   
-  * Gravity Acceleration Jerk Magnitude 
+  * Gravity Acceleration Jerk Magnitude - Time: 
     * "tBodyAcceleration JerkMagnitude Mean "      
     * "tBodyAcceleration JerkMagnitude StdDev "
   
-  * Body Gyroscope Magnitude
+  * Body Gyroscope Magnitude - Time:
     * "tBodyGyroMagnitude Mean "                   
     * "tBodyGyroMagnitude StdDev "   
   
-  * Body Gyroscope Jerk Magnitude
+  * Body Gyroscope Jerk Magnitude - Time:
     * "tBodyGyroJerkMagnitude Mean "               
     * "tBodyGyroJerkMagnitude StdDev "
   
